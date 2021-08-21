@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:latest
 
 ARG USERNAME=prowler
 ARG USERID=34000
